@@ -4,7 +4,7 @@ This is a FastAPI based backend repository, deployed on https://dota-2-picker.he
 
 ### API
 ```
-https://dota-2-picker.herokuapp.com/get_counters?picks=Axe,BB,ES,WW,Invo.
+https://dota-2-picker.herokuapp.com/get_counters?picks=Axe,BB,ES,WW,Invo
 ```
 Here picks are the picks that opponent is making.
 #### Note :  It can have from 1 to 5 picks, separated by comma(,).
