@@ -52,7 +52,21 @@ def get_counter_tally_sorted(c_t_dict):
 
 @app.get('/get_counters')
 async def get_counter_picks(picks: str = ''):
+    if picks == '':
+        return {
+            "status": "Error",
+            "message": "please provide comma separated picks of opponents, like ?pick=ES,WW,BB,ES,PA. It can have up to"
+                       " 5 comma separated values. The Alias are mentioned in README.md @ "
+                       "https://github.com/Sumit-kj/dota-2-counters/blob/master/README.md ."
+        }
     opponent_picks = [al.alias[x.strip().upper()] for x in picks.split(',')]
+    if len(opponent_picks) > 5:
+        return {
+            "status": "Error",
+            "message": "please provide up to 5 picks of opponents, like ?pick=ES,WW,BB,ES,PA.  The Alias are mentioned "
+                       "in README.md @ "
+                       "https://github.com/Sumit-kj/dota-2-counters/blob/master/README.md ."
+        }
     hero_counter_dict = create_counter_dict()
     result = get_counter_tally(opponent_picks, hero_counter_dict)
     result = get_counter_tally_sorted(result)
