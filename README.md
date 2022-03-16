@@ -1,6 +1,7 @@
 # dota-2-counters
 Scrapes counters for each hero from dota2.fandom and provides a visual representation of counters to each opponent's pick.
-This is a FastAPI based backend repository, deployed on https://dota-2-picker.herokuapp.com .
+This is a FastAPI based backend repository, deployed on heroku.
+Try it out: https://dota-2-picker.herokuapp.com/get_counters?picks=Axe,BB,ES,WW,Invo
 
 ### API
 ```
