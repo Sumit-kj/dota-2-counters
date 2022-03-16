@@ -1,0 +1,3182 @@
+{
+    "Abaddon": {
+        "good_against": [
+            "Ancient Apparition",
+            "Axe",
+            "Brewmaster",
+            "Doom",
+            "Lina",
+            "Outworld Destroyer",
+            "Shadow Demon"
+        ],
+        "bad_against": [
+            "Death Prophet",
+            "Mirana",
+            "Bane",
+            "Batrider",
+            "Beastmaster",
+            "Chen",
+            "Techies",
+            "Bloodseeker",
+            "Necrophos",
+            "Nyx Assassin"
+        ]
+    },
+    "Alchemist": {
+        "good_against": [
+            "Axe",
+            "Ancient Apparition",
+            "Enchantress",
+            "Invoker",
+            "Kunkka",
+            "Lifestealer",
+            "Necrophos",
+            "Slardar",
+            "Slark",
+            "Ursa",
+            "Ember Spirit",
+            "Razor"
+        ],
+        "bad_against": [
+            "Broodmother",
+            "Nature's Prophet",
+            "Phoenix",
+            "Undying",
+            "Huskar"
+        ]
+    },
+    "Ancient_Apparition": {
+        "good_against": [
+            "Anti-Mage",
+            "Brewmaster",
+            "Riki",
+            "Lycan",
+            "Mirana",
+            "Oracle",
+            "Phantom Lancer",
+            "Phoenix",
+            "Terrorblade",
+            "Viper",
+            "Void Spirit",
+            "Weaver"
+        ],
+        "bad_against": [
+            "Abaddon",
+            "Alchemist",
+            "Chen",
+            "Crystal Maiden",
+            "Dazzle",
+            "Death Prophet",
+            "Huskar",
+            "Io",
+            "Morphling",
+            "Snapfire",
+            "Winter Wyvern"
+        ]
+    },
+    "Anti-Mage": {
+        "good_against": [
+            "Axe",
+            "Bane",
+            "Disruptor",
+            "Doom",
+            "Grimstroke",
+            "Legion Commander",
+            "Meepo",
+            "Night Stalker",
+            "Outworld Destroyer",
+            "Puck",
+            "Phantom Assassin",
+            "Phantom Lancer",
+            "Slardar",
+            "Slark",
+            "Shadow Demon",
+            "Templar Assassin",
+            "Troll Warlord",
+            "Viper"
+        ],
+        "bad_against": [
+            "Ancient Apparition",
+            "Abaddon",
+            "Arc Warden",
+            "Bristleback",
+            "Clockwerk",
+            "Elder Titan",
+            "Juggernaut",
+            "Medusa",
+            "Ogre Magi",
+            "Phoenix",
+            "Pugna",
+            "Rubick",
+            "Spectre",
+            "Storm Spirit",
+            "Tidehunter",
+            "Undying",
+            "Venomancer",
+            "Wraith King",
+            "Zeus"
+        ]
+    },
+    "Arc_Warden": {
+        "good_against": [
+            "Broodmother",
+            "Invoker",
+            "Anti-Mage",
+            "Axe",
+            "Bristleback",
+            "Chaos Knight",
+            "Meepo",
+            "Naga Siren",
+            "Riki",
+            "Phantom Lancer",
+            "Pugna"
+        ],
+        "bad_against": [
+            "Legion Commander",
+            "Templar Assassin",
+            "Mirana",
+            "Terrorblade",
+            "Phoenix",
+            "Sniper",
+            "Drow Ranger",
+            "Enchantress"
+        ]
+    },
+    "Axe": {
+        "good_against": [
+            "Doom",
+            "Jakiro",
+            "Lifestealer",
+            "Necrophos",
+            "Outworld Destroyer",
+            "Phoenix",
+            "Pugna",
+            "Shadow Demon",
+            "Spectre",
+            "Timbersaw",
+            "Ursa",
+            "Undying",
+            "Venomancer",
+            "Viper"
+        ],
+        "bad_against": [
+            "Abaddon",
+            "Anti-Mage",
+            "Broodmother",
+            "Chaos Knight",
+            "Dazzle",
+            "Huskar",
+            "Morphling",
+            "Nature's Prophet",
+            "Phantom Assassin",
+            "Phantom Lancer",
+            "Slark",
+            "Terrorblade",
+            "Troll Warlord",
+            "Weaver"
+        ]
+    },
+    "Bane": {
+        "good_against": [
+            "Abaddon",
+            "Pudge",
+            "Luna",
+            "Rubick",
+            "Slark"
+        ],
+        "bad_against": [
+            "Faceless Void",
+            "Legion Commander",
+            "Medusa",
+            "Phantom Assassin",
+            "Phantom Lancer"
+        ]
+    },
+    "Batrider": {
+        "good_against": [
+            "Abaddon",
+            "Kunkka",
+            "Legion Commander",
+            "Nyx Assassin",
+            "Oracle",
+            "Tidehunter",
+            "Ursa",
+            "Vengeful Spirit",
+            "Venomancer",
+            "Weaver",
+            "Slark"
+        ],
+        "bad_against": [
+            "Chen",
+            "Meepo",
+            "Monkey King",
+            "Naga Siren",
+            "Techies",
+            "Templar Assassin",
+            "Treant Protector"
+        ]
+    },
+    "Beastmaster": {
+        "good_against": [
+            "Abaddon",
+            "Crystal Maiden",
+            "Enchantress",
+            "Earthshaker",
+            "Keeper of the Light",
+            "Oracle",
+            "Timbersaw",
+            "Winter Wyvern"
+        ],
+        "bad_against": [
+            "Monkey King",
+            "Phoenix",
+            "Sven",
+            "Templar Assassin",
+            "Tinker",
+            "Tiny",
+            "Troll Warlord",
+            "Ursa",
+            "Wraith King"
+        ]
+    },
+    "Bloodseeker": {
+        "good_against": [
+            "Abaddon",
+            "Dazzle",
+            "Ember Spirit",
+            "Faceless Void",
+            "Medusa",
+            "Morphling",
+            "Omniknight",
+            "Storm Spirit",
+            "Tinker",
+            "Troll Warlord",
+            "Underlord",
+            "Wraith King"
+        ],
+        "bad_against": [
+            "Anti-Mage",
+            "Clinkz",
+            "Huskar",
+            "Lycan",
+            "Meepo",
+            "Mirana",
+            "Pangolier",
+            "Phoenix",
+            "Queen of Pain",
+            "Riki",
+            "Slark",
+            "Sniper",
+            "Timbersaw",
+            "Vengeful Spirit",
+            "Weaver",
+            "Windranger"
+        ]
+    },
+    "Bounty_Hunter": {
+        "good_against": [
+            "Bloodseeker",
+            "Death Prophet",
+            "Luna",
+            "Rubick",
+            "Slardar",
+            "Spectre",
+            "Spirit Breaker",
+            "Venomancer",
+            "Viper",
+            "Zeus"
+        ],
+        "bad_against": [
+            "Sniper",
+            "Nyx Assassin",
+            "Shadow Fiend",
+            "Pudge"
+        ]
+    },
+    "Brewmaster": {
+        "good_against": [
+            "Bane",
+            "Death Prophet",
+            "Lion",
+            "Outworld Destroyer",
+            "Shadow Shaman",
+            "Skywrath Mage"
+        ],
+        "bad_against": [
+            "Abaddon",
+            "Chaos Knight",
+            "Huskar",
+            "Lone Druid",
+            "Lycan",
+            "Templar Assassin",
+            "Ursa"
+        ]
+    },
+    "Bristleback": {
+        "good_against": [
+            "Anti-Mage",
+            "Doom",
+            "Faceless Void",
+            "Grimstroke",
+            "Hoodwink",
+            "Legion Commander",
+            "Lion",
+            "Necrophos",
+            "Outworld Destroyer",
+            "Razor",
+            "Silencer",
+            "Slardar",
+            "Timbersaw",
+            "Viper",
+            "Weaver"
+        ],
+        "bad_against": [
+            "Broodmother",
+            "Chaos Knight",
+            "Huskar",
+            "Jakiro",
+            "Luna",
+            "Lycan",
+            "Meepo",
+            "Phantom Lancer",
+            "Pudge",
+            "Riki",
+            "Rubick",
+            "Sand King"
+        ]
+    },
+    "Broodmother": {
+        "good_against": [
+            "Bristleback",
+            "Dark Seer",
+            "Dragon Knight",
+            "Legion Commander",
+            "Lina",
+            "Meepo",
+            "Necrophos",
+            "Pangolier",
+            "Sand King",
+            "Sven",
+            "Tidehunter",
+            "Timbersaw",
+            "Void Spirit"
+        ],
+        "bad_against": [
+            "Chen",
+            "Drow Ranger",
+            "Enchantress",
+            "Medusa",
+            "Nature's Prophet",
+            "Phantom Assassin",
+            "Sniper",
+            "Treant Protector"
+        ]
+    },
+    "Centaur_Warrunner": {
+        "good_against": [
+            "Clockwerk",
+            "Disruptor",
+            "Kunkka",
+            "Lifestealer",
+            "Necrophos",
+            "Nyx Assassin",
+            "Templar Assassin"
+        ],
+        "bad_against": [
+            "Arc Warden",
+            "Doom",
+            "Nyx Assassin",
+            "Pangolier",
+            "Phantom Assassin",
+            "Phantom Lancer",
+            "Sniper",
+            "Windranger"
+        ]
+    },
+    "Chaos_Knight": {
+        "good_against": [
+            "Abaddon",
+            "Anti-Mage",
+            "Axe",
+            "Brewmaster",
+            "Dragon Knight",
+            "Earthshaker",
+            "Enchantress",
+            "Enigma",
+            "Jakiro",
+            "Lich",
+            "Magnus",
+            "Monkey King",
+            "Omniknight",
+            "Phantom Lancer",
+            "Puck",
+            "Sand King",
+            "Sven",
+            "Tidehunter",
+            "Timbersaw",
+            "Tinker",
+            "Winter Wyvern",
+            "Witch Doctor"
+        ],
+        "bad_against": [
+            "Bane",
+            "Bounty Hunter",
+            "Disruptor",
+            "Huskar",
+            "Legion Commander",
+            "Lifestealer",
+            "Lone Druid",
+            "Pudge",
+            "Rubick",
+            "Silencer",
+            "Slark",
+            "Sniper",
+            "Techies",
+            "Ursa",
+            "Viper"
+        ]
+    },
+    "Chen": {
+        "good_against": [
+            "Crystal Maiden",
+            "Enchantress",
+            "Earthshaker",
+            "Legion Commander",
+            "Sven",
+            "Lina",
+            "Luna",
+            "Monkey King",
+            "Venomancer",
+            "Jakiro",
+            "Sand King",
+            "Timbersaw",
+            "Necrophos",
+            "Death Prophet",
+            "Dark Seer",
+            "Broodmother",
+            "Alchemist",
+            "Razor",
+            "Phoenix",
+            "Elder Titan",
+            "Batrider",
+            "Ancient Apparition",
+            "Underlord"
+        ],
+        "bad_against": [
+            "Techies",
+            "Arc Warden",
+            "Beastmaster",
+            "Clockwerk",
+            "Pudge",
+            "Bane",
+            "Shadow Shaman"
+        ]
+    },
+    "Clinkz": {
+        "good_against": [
+            "Bloodseeker",
+            "Bounty Hunter",
+            "Doom",
+            "Enchantress",
+            "Lion",
+            "Morphling",
+            "Slardar",
+            "Spectre",
+            "Spirit Breaker",
+            "Treant Protector",
+            "Winter Wyvern",
+            "Zeus"
+        ],
+        "bad_against": [
+            "Anti-Mage",
+            "Ember Spirit",
+            "Huskar",
+            "Nature's Prophet",
+            "Viper"
+        ]
+    },
+    "Clockwerk": {
+        "good_against": [
+            "Anti-Mage",
+            "Chen",
+            "Clinkz",
+            "Dazzle",
+            "Disruptor",
+            "Ember Spirit",
+            "Huskar",
+            "Juggernaut",
+            "Lifestealer",
+            "Morphling",
+            "Omniknight",
+            "Phantom Lancer",
+            "Phoenix",
+            "Queen of Pain",
+            "Terrorblade",
+            "Ursa",
+            "Visage"
+        ],
+        "bad_against": [
+            "Earthshaker",
+            "Enigma",
+            "Drow Ranger",
+            "Legion Commander",
+            "Monkey King",
+            "Pudge",
+            "Pugna",
+            "Sniper",
+            "Spirit Breaker",
+            "Tinker",
+            "Windranger"
+        ]
+    },
+    "Crystal_Maiden": {
+        "good_against": [
+            "Bounty Hunter",
+            "Bristleback",
+            "Clockwerk",
+            "Doom",
+            "Earth Spirit",
+            "Jakiro",
+            "Legion Commander",
+            "Luna",
+            "Naga Siren",
+            "Nyx Assassin",
+            "Tidehunter",
+            "Tusk",
+            "Visage"
+        ],
+        "bad_against": [
+            "Slark",
+            "Phantom Assassin",
+            "Templar Assassin"
+        ]
+    },
+    "Dark_Seer": {
+        "good_against": [
+            "Anti-Mage",
+            "Bloodseeker",
+            "Ember Spirit",
+            "Kunkka",
+            "Oracle",
+            "Sniper"
+        ],
+        "bad_against": [
+            "Broodmother",
+            "Templar Assassin",
+            "Treant Protector",
+            "Meepo",
+            "Terrorblade",
+            "Venomancer"
+        ]
+    },
+    "Dark_Willow": {
+        "good_against": [
+            "Anti-Mage",
+            "Axe",
+            "Bristleback",
+            "Drow Ranger",
+            "Ember Spirit",
+            "Juggernaut",
+            "Lifestealer",
+            "Nyx Assassin",
+            "Oracle",
+            "Puck",
+            "Pudge",
+            "Riki",
+            "Silencer",
+            "Storm Spirit"
+        ],
+        "bad_against": [
+            "Bloodseeker",
+            "Faceless Void",
+            "Monkey King",
+            "Meepo",
+            "Spirit Breaker",
+            "Timbersaw",
+            "Troll Warlord",
+            "Windranger"
+        ]
+    },
+    "Dawnbreaker": {
+        "good_against": [
+            "Viper",
+            "Nyx Assassin",
+            "Drow Ranger",
+            "Disruptor",
+            "Faceless Void"
+        ],
+        "bad_against": [
+            "Nature's Prophet",
+            "Legion Commander",
+            "Mars",
+            "Spirit Breaker",
+            "Spectre"
+        ]
+    },
+    "Dazzle": {
+        "good_against": [
+            "Ancient Apparition",
+            "Axe",
+            "Naga Siren",
+            "Outworld Destroyer",
+            "Phantom Lancer",
+            "Silencer",
+            "Doom"
+        ],
+        "bad_against": [
+            "Clockwerk",
+            "Necrophos",
+            "Venomancer"
+        ]
+    },
+    "Death_Prophet": {
+        "good_against": [
+            "Ancient Apparition",
+            "Anti-Mage",
+            "Doom",
+            "Legion Commander",
+            "Omniknight",
+            "Shadow Fiend"
+        ],
+        "bad_against": [
+            "Zeus",
+            "Invoker",
+            "Morphling",
+            "Timbersaw",
+            "Nature's Prophet"
+        ]
+    },
+    "Disruptor": {
+        "good_against": [
+            "Abaddon",
+            "Kunkka",
+            "Juggernaut",
+            "Lifestealer",
+            "Omniknight",
+            "Phantom Lancer",
+            "Pugna",
+            "Sniper",
+            "Viper"
+        ],
+        "bad_against": [
+            "Anti-Mage",
+            "Io",
+            "Queen of Pain",
+            "Slark",
+            "Storm Spirit",
+            "Tidehunter"
+        ]
+    },
+    "Doom": {
+        "good_against": [
+            "Alchemist",
+            "Centaur Warrunner",
+            "Drow Ranger",
+            "Lifestealer",
+            "Lone Druid",
+            "Medusa",
+            "Necrophos",
+            "Phantom Lancer",
+            "Sniper",
+            "Viper",
+            "Wraith King"
+        ],
+        "bad_against": [
+            "Axe",
+            "Timbersaw",
+            "Anti-Mage",
+            "Bristleback",
+            "Tidehunter",
+            "Ember Spirit",
+            "Invoker",
+            "Omniknight",
+            "Tinker",
+            "Elder Titan",
+            "Faceless Void",
+            "Pudge",
+            "Spectre",
+            "Arc Warden"
+        ]
+    },
+    "Dragon_Knight": {
+        "good_against": [
+            "Ancient Apparition",
+            "Bristleback",
+            "Drow Ranger",
+            "Lich",
+            "Necrophos",
+            "Ursa",
+            "Outworld Destroyer",
+            "Razor",
+            "Timbersaw",
+            "Viper"
+        ],
+        "bad_against": [
+            "Bloodseeker",
+            "Clinkz",
+            "Nyx Assassin",
+            "Riki",
+            "Spirit Breaker",
+            "Templar Assassin",
+            "Witch Doctor"
+        ]
+    },
+    "Drow_Ranger": {
+        "good_against": [
+            "Faceless Void",
+            "Tinker",
+            "Arc Warden",
+            "Tusk",
+            "Axe",
+            "Clockwerk",
+            "Chaos Knight",
+            "Huskar",
+            "Lycan",
+            "Nyx Assassin",
+            "Omniknight",
+            "Phantom Lancer",
+            "Pudge",
+            "Razor",
+            "Riki",
+            "Slark"
+        ],
+        "bad_against": [
+            "Juggernaut",
+            "Anti-Mage",
+            "Weaver",
+            "Mirana",
+            "Rubick"
+        ]
+    },
+    "Earth_Spirit": {
+        "good_against": [
+            "Abaddon",
+            "Lycan",
+            "Techies",
+            "Slark",
+            "Clockwerk"
+        ],
+        "bad_against": [
+            "Pudge",
+            "Tinker",
+            "Invoker",
+            "Templar Assassin",
+            "Enigma"
+        ]
+    },
+    "Earthshaker": {
+        "good_against": [
+            "Clockwerk",
+            "Death Prophet",
+            "Disruptor",
+            "Earth Spirit",
+            "Jakiro",
+            "Lifestealer",
+            "Necrophos",
+            "Outworld Destroyer",
+            "Puck",
+            "Razor",
+            "Skywrath Mage",
+            "Sniper",
+            "Spectre",
+            "Templar Assassin",
+            "Venomancer",
+            "Viper",
+            "Zeus"
+        ],
+        "bad_against": [
+            "Broodmother",
+            "Chaos Knight",
+            "Enigma",
+            "Legion Commander",
+            "Meepo",
+            "Naga Siren",
+            "Nature's Prophet",
+            "Phantom Lancer",
+            "Spirit Breaker"
+        ]
+    },
+    "Elder_Titan": {
+        "good_against": [
+            "Brewmaster",
+            "Clockwerk",
+            "Lich",
+            "Lion",
+            "Sven",
+            "Juggernaut",
+            "Enchantress",
+            "Earthshaker"
+        ],
+        "bad_against": [
+            "Meepo",
+            "Morphling",
+            "Phantom Lancer",
+            "Slark",
+            "Terrorblade",
+            "Viper"
+        ]
+    },
+    "Ember_Spirit": {
+        "good_against": [
+            "Lion",
+            "Shadow Fiend",
+            "Silencer",
+            "Storm Spirit",
+            "Faceless Void",
+            "Omniknight",
+            "Outworld Destroyer",
+            "Nyx Assassin",
+            "Kunkka"
+        ],
+        "bad_against": [
+            "Bloodseeker",
+            "Meepo",
+            "Chaos Knight",
+            "Terrorblade",
+            "Crystal Maiden",
+            "Nature's Prophet",
+            "Phantom Lancer",
+            "Templar Assassin"
+        ]
+    },
+    "Enchantress": {
+        "good_against": [
+            "Razor",
+            "Broodmother",
+            "Chen",
+            "Crystal Maiden",
+            "Juggernaut",
+            "Lina",
+            "Luna",
+            "Meepo",
+            "Nyx Assassin",
+            "Riki",
+            "Timbersaw",
+            "Troll Warlord",
+            "Venomancer",
+            "Windranger"
+        ],
+        "bad_against": [
+            "Chaos Knight",
+            "Ember Spirit",
+            "Lycan",
+            "Omniknight",
+            "Spirit Breaker",
+            "Lifestealer",
+            "Sven",
+            "Beastmaster",
+            "Ursa"
+        ]
+    },
+    "Enigma": {
+        "good_against": [
+            "Abaddon",
+            "Anti-Mage",
+            "Bloodseeker",
+            "Bristleback",
+            "Clinkz",
+            "Clockwerk",
+            "Doom",
+            "Keeper of the Light",
+            "Luna",
+            "Medusa",
+            "Outworld Destroyer",
+            "Pudge",
+            "Pugna",
+            "Riki",
+            "Rubick",
+            "Silencer",
+            "Sniper",
+            "Spectre",
+            "Storm Spirit",
+            "Vengeful Spirit",
+            "Warlock",
+            "Winter Wyvern",
+            "Wraith King",
+            "Zeus",
+            "Tidehunter"
+        ],
+        "bad_against": [
+            "Chaos Knight",
+            "Crystal Maiden",
+            "Juggernaut",
+            "Lifestealer",
+            "Monkey King",
+            "Naga Siren",
+            "Omniknight"
+        ]
+    },
+    "Faceless_Void": {
+        "good_against": [
+            "Abaddon",
+            "Brewmaster",
+            "Dawnbreaker",
+            "Dazzle",
+            "Earth Spirit",
+            "Monkey King",
+            "Kunkka",
+            "Grimstroke",
+            "Night Stalker",
+            "Omniknight",
+            "Phoenix",
+            "Pudge",
+            "Shadow Demon",
+            "Silencer",
+            "Sven",
+            "Vengeful Spirit"
+        ],
+        "bad_against": [
+            "Anti-Mage",
+            "Lifestealer",
+            "Bloodseeker",
+            "Bristleback",
+            "Invoker",
+            "Mars",
+            "Morphling",
+            "Necrophos",
+            "Puck",
+            "Queen of Pain",
+            "Razor",
+            "Rubick",
+            "Slark",
+            "Storm Spirit",
+            "Weaver"
+        ]
+    },
+    "Grimstroke": {
+        "good_against": [
+            "Puck",
+            "Shadow Demon",
+            "Centaur Warrunner",
+            "Sniper",
+            "Vengeful Spirit"
+        ],
+        "bad_against": [
+            "Broodmother",
+            "Crystal Maiden",
+            "Io",
+            "Necrophos",
+            "Phantom Lancer",
+            "Terrorblade",
+            "Timbersaw",
+            "Weaver"
+        ]
+    },
+    "Gyrocopter": {
+        "good_against": [
+            "Anti-Mage",
+            "Arc Warden",
+            "Huskar",
+            "Faceless Void",
+            "Juggernaut",
+            "Lina",
+            "Lifestealer",
+            "Omniknight",
+            "Queen of Pain",
+            "Timbersaw"
+        ],
+        "bad_against": [
+            "Meepo",
+            "Undying",
+            "Phantom Lancer",
+            "Chaos Knight",
+            "Terrorblade"
+        ]
+    },
+    "Hoodwink": {
+        "good_against": [
+            "Storm Spirit",
+            "Timbersaw",
+            "Treant Protector",
+            "Vengeful Spirit",
+            "Beastmaster",
+            "Warlock",
+            "Slark",
+            "Windranger",
+            "Zeus",
+            "Techies",
+            "Clinkz",
+            "Nyx Assassin"
+        ],
+        "bad_against": [
+            "Abaddon",
+            "Bristleback",
+            "Huskar",
+            "Lion",
+            "Monkey King",
+            "Phantom Assassin",
+            "Phantom Lancer",
+            "Morphling"
+        ]
+    },
+    "Huskar": {
+        "good_against": [
+            "Abaddon",
+            "Alchemist",
+            "Ancient Apparition",
+            "Axe",
+            "Bristleback",
+            "Chaos Knight",
+            "Enchantress",
+            "Bloodseeker",
+            "Juggernaut",
+            "Lifestealer",
+            "Naga Siren",
+            "Slardar",
+            "Storm Spirit",
+            "Ursa",
+            "Viper",
+            "Windranger",
+            "Necrophos"
+        ],
+        "bad_against": [
+            "Weaver",
+            "Clockwerk",
+            "Dragon Knight",
+            "Earthshaker",
+            "Ember Spirit",
+            "Nature's Prophet",
+            "Phoenix"
+        ]
+    },
+    "Invoker": {
+        "good_against": [
+            "Anti-Mage",
+            "Broodmother",
+            "Doom",
+            "Faceless Void",
+            "Juggernaut",
+            "Kunkka",
+            "Lifestealer",
+            "Night Stalker",
+            "Nyx Assassin",
+            "Pugna",
+            "Outworld Destroyer",
+            "Queen of Pain",
+            "Silencer",
+            "Storm Spirit",
+            "Templar Assassin",
+            "Viper"
+        ],
+        "bad_against": [
+            "Huskar",
+            "Legion Commander",
+            "Medusa",
+            "Necrophos",
+            "Tinker",
+            "Wraith King"
+        ]
+    },
+    "Io": {
+        "good_against": [
+            "Ancient Apparition",
+            "Bloodseeker",
+            "Bristleback",
+            "Clinkz",
+            "Disruptor",
+            "Grimstroke",
+            "Legion Commander",
+            "Leshrac",
+            "Lich",
+            "Luna",
+            "Phantom Assassin",
+            "Sniper",
+            "Spirit Breaker",
+            "Treant Protector",
+            "Winter Wyvern"
+        ],
+        "bad_against": [
+            "Drow Ranger",
+            "Meepo",
+            "Nature's Prophet",
+            "Phoenix",
+            "Pudge",
+            "Underlord"
+        ]
+    },
+    "Jakiro": {
+        "good_against": [
+            "Anti-Mage",
+            "Clockwerk",
+            "Lifestealer",
+            "Oracle",
+            "Rubick",
+            "Silencer",
+            "Skywrath Mage"
+        ],
+        "bad_against": [
+            "Axe",
+            "Broodmother",
+            "Chen",
+            "Chaos Knight",
+            "Meepo",
+            "Nature's Prophet",
+            "Phantom Lancer",
+            "Riki",
+            "Templar Assassin",
+            "Treant Protector"
+        ]
+    },
+    "Juggernaut": {
+        "good_against": [
+            "Axe",
+            "Bane",
+            "Chaos Knight",
+            "Enigma",
+            "Mars",
+            "Pugna",
+            "Omniknight",
+            "Outworld Destroyer",
+            "Ursa",
+            "Pudge",
+            "Legion Commander",
+            "Windranger"
+        ],
+        "bad_against": [
+            "Dark Willow",
+            "Enchantress",
+            "Invoker",
+            "Keeper of the Light",
+            "Necrophos",
+            "Nyx Assassin",
+            "Phoenix",
+            "Templar Assassin",
+            "Zeus"
+        ]
+    },
+    "Keeper_of_the_Light": {
+        "good_against": [
+            "Legion Commander",
+            "Lifestealer",
+            "Night Stalker",
+            "Nyx Assassin"
+        ],
+        "bad_against": [
+            "Monkey King",
+            "Wraith King"
+        ]
+    },
+    "Kunkka": {
+        "good_against": [
+            "Clinkz",
+            "Ursa",
+            "Silencer",
+            "Mirana",
+            "Phoenix",
+            "Omniknight",
+            "Huskar",
+            "Juggernaut",
+            "Lifestealer",
+            "Sniper",
+            "Outworld Destroyer"
+        ],
+        "bad_against": [
+            "Chaos Knight",
+            "Broodmother",
+            "Lycan",
+            "Meepo",
+            "Phantom Lancer",
+            "Queen of Pain",
+            "Spectre",
+            "Sand King",
+            "Warlock"
+        ]
+    },
+    "Legion_Commander": {
+        "good_against": [
+            "Abaddon",
+            "Axe",
+            "Arc Warden",
+            "Bane",
+            "Dazzle",
+            "Dragon Knight",
+            "Io",
+            "Luna",
+            "Mars",
+            "Medusa",
+            "Omniknight",
+            "Oracle",
+            "Pangolier",
+            "Pudge",
+            "Pugna",
+            "Razor",
+            "Skywrath Mage",
+            "Sven",
+            "Treant Protector",
+            "Underlord",
+            "Ursa",
+            "Visage",
+            "Vengeful Spirit",
+            "Winter Wyvern"
+        ],
+        "bad_against": [
+            "Anti-Mage",
+            "Bristleback",
+            "Broodmother",
+            "Chen",
+            "Clinkz",
+            "Drow Ranger",
+            "Huskar",
+            "Nyx Assassin",
+            "Sniper",
+            "Terrorblade",
+            "Weaver"
+        ]
+    },
+    "Leshrac": {
+        "good_against": [
+            "Pugna",
+            "Anti-Mage",
+            "Clockwerk",
+            "Lifestealer",
+            "Nyx Assassin",
+            "Oracle"
+        ],
+        "bad_against": [
+            "Meepo",
+            "Visage",
+            "Chen",
+            "Broodmother",
+            "Io",
+            "Shadow Demon",
+            "Phantom Lancer"
+        ]
+    },
+    "Lich": {
+        "good_against": [
+            "Anti-Mage",
+            "Bloodseeker",
+            "Broodmother",
+            "Huskar",
+            "Lycan",
+            "Nature's Prophet",
+            "Phantom Assassin",
+            "Queen of Pain",
+            "Weaver"
+        ],
+        "bad_against": [
+            "Meepo",
+            "Chaos Knight",
+            "Lone Druid",
+            "Arc Warden"
+        ]
+    },
+    "Lifestealer": {
+        "good_against": [
+            "Ancient Apparition",
+            "Bane",
+            "Beastmaster",
+            "Chaos Knight",
+            "Clinkz",
+            "Terrorblade",
+            "Phantom Lancer",
+            "Slark",
+            "Ursa",
+            "Weaver",
+            "Windranger"
+        ],
+        "bad_against": [
+            "Axe",
+            "Dark Willow",
+            "Invoker",
+            "Techies",
+            "Tinker",
+            "Ogre Magi"
+        ]
+    },
+    "Lina": {
+        "good_against": [
+            "Anti-Mage",
+            "Faceless Void",
+            "Lifestealer",
+            "Nyx Assassin",
+            "Phantom Lancer",
+            "Silencer",
+            "Slark",
+            "Spectre",
+            "Sven",
+            "Viper",
+            "Razor",
+            "Axe"
+        ],
+        "bad_against": [
+            "Ancient Apparition",
+            "Clinkz",
+            "Crystal Maiden",
+            "Dazzle",
+            "Enchantress",
+            "Meepo",
+            "Mirana",
+            "Morphling",
+            "Necrophos",
+            "Pudge",
+            "Treant Protector",
+            "Venomancer"
+        ]
+    },
+    "Lion": {
+        "good_against": [
+            "Abaddon",
+            "Lifestealer",
+            "Puck",
+            "Rubick",
+            "Slark",
+            "Nyx Assassin",
+            "Tidehunter"
+        ],
+        "bad_against": [
+            "Drow Ranger",
+            "Ember Spirit",
+            "Enchantress",
+            "Medusa",
+            "Phantom Assassin",
+            "Weaver",
+            "Wraith King"
+        ]
+    },
+    "Lone_Druid": {
+        "good_against": [
+            "Phantom Assassin",
+            "Bristleback",
+            "Necrophos",
+            "Grimstroke",
+            "Outworld Destroyer",
+            "Underlord",
+            "Winter Wyvern",
+            "Lich",
+            "Tinker",
+            "Death Prophet",
+            "Phoenix"
+        ],
+        "bad_against": [
+            "Nature's Prophet",
+            "Silencer"
+        ]
+    },
+    "Luna": {
+        "good_against": [
+            "Bristleback",
+            "Broodmother",
+            "Juggernaut",
+            "Lina",
+            "Meepo",
+            "Phantom Lancer",
+            "Pudge",
+            "Sniper",
+            "Slark",
+            "Techies",
+            "Tinker",
+            "Zeus"
+        ],
+        "bad_against": [
+            "Arc Warden",
+            "Bane",
+            "Bounty Hunter",
+            "Chen",
+            "Enchantress",
+            "Legion Commander",
+            "Lifestealer",
+            "Magnus",
+            "Necrophos",
+            "Pugna",
+            "Riki",
+            "Tidehunter",
+            "Underlord",
+            "Winter Wyvern"
+        ]
+    },
+    "Lycan": {
+        "good_against": [
+            "Axe",
+            "Beastmaster",
+            "Bloodseeker",
+            "Bristleback",
+            "Earthshaker",
+            "Enigma",
+            "Enchantress",
+            "Grimstroke",
+            "Kunkka",
+            "Medusa",
+            "Omniknight",
+            "Phantom Assassin",
+            "Sven",
+            "Tidehunter",
+            "Timbersaw",
+            "Winter Wyvern"
+        ],
+        "bad_against": [
+            "Lich",
+            "Techies",
+            "Arc Warden",
+            "Drow Ranger",
+            "Ursa"
+        ]
+    },
+    "Magnus": {
+        "good_against": [
+            "Alchemist",
+            "Bloodseeker",
+            "Disruptor",
+            "Huskar",
+            "Jakiro",
+            "Night Stalker",
+            "Phoenix",
+            "Razor",
+            "Rubick",
+            "Sniper",
+            "Spectre",
+            "Treant Protector",
+            "Tinker",
+            "Venomancer",
+            "Wraith King",
+            "Zeus"
+        ],
+        "bad_against": [
+            "Chaos Knight",
+            "Meepo",
+            "Lifestealer",
+            "Phantom Lancer"
+        ]
+    },
+    "Marci": {
+        "good_against": [
+            "Axe",
+            "Bloodseeker",
+            "Dark Willow",
+            "Death Prophet",
+            "Lifestealer",
+            "Lycan",
+            "Necrophos",
+            "Oracle",
+            "Pangolier",
+            "Weaver"
+        ],
+        "bad_against": [
+            "Enchantress",
+            "Mars",
+            "Nature's Prophet",
+            "Zeus"
+        ]
+    },
+    "Mars": {
+        "good_against": [
+            "Axe",
+            "Lifestealer",
+            "Riki",
+            "Batrider",
+            "Faceless Void",
+            "Huskar",
+            "Lina",
+            "Necrophos",
+            "Ogre Magi",
+            "Outworld Destroyer",
+            "Pugna",
+            "Pangolier",
+            "Shadow Fiend",
+            "Storm Spirit",
+            "Underlord",
+            "Undying",
+            "Venomancer",
+            "Viper",
+            "Tusk",
+            "Zeus"
+        ],
+        "bad_against": [
+            "Bloodseeker",
+            "Juggernaut",
+            "Legion Commander",
+            "Phantom Assassin",
+            "Slark",
+            "Spectre",
+            "Terrorblade",
+            "Weaver"
+        ]
+    },
+    "Medusa": {
+        "good_against": [
+            "Anti-Mage",
+            "Arc Warden",
+            "Bane",
+            "Broodmother",
+            "Invoker",
+            "Keeper of the Light",
+            "Nyx Assassin",
+            "Phantom Lancer",
+            "Pugna",
+            "Riki",
+            "Slark",
+            "Sniper",
+            "Ursa",
+            "Mars"
+        ],
+        "bad_against": [
+            "Enchantress",
+            "Lifestealer",
+            "Necrophos",
+            "Sven",
+            "Undying",
+            "Lycan",
+            "Enigma",
+            "Meepo",
+            "Axe",
+            "Visage",
+            "Spectre"
+        ]
+    },
+    "Meepo": {
+        "good_against": [
+            "Axe",
+            "Earthshaker",
+            "Elder Titan",
+            "Ember Spirit",
+            "Kunkka",
+            "Lion",
+            "Mars",
+            "Monkey King",
+            "Pangolier",
+            "Phantom Assassin",
+            "Sven",
+            "Techies",
+            "Venomancer",
+            "Viper",
+            "Winter Wyvern"
+        ],
+        "bad_against": [
+            "Anti-Mage",
+            "Legion Commander",
+            "Phantom Lancer",
+            "Phoenix",
+            "Queen of Pain",
+            "Shadow Demon",
+            "Storm Spirit"
+        ]
+    },
+    "Mirana": {
+        "good_against": [
+            "Abaddon",
+            "Arc Warden",
+            "Bloodseeker",
+            "Lina",
+            "Lycan",
+            "Meepo",
+            "Night Stalker",
+            "Puck",
+            "Slark",
+            "Windranger"
+        ],
+        "bad_against": [
+            "Crystal Maiden",
+            "Drow Ranger",
+            "Techies",
+            "Witch Doctor"
+        ]
+    },
+    "Monkey_King": {
+        "good_against": [
+            "Batrider",
+            "Beastmaster",
+            "Bounty Hunter",
+            "Brewmaster",
+            "Disruptor",
+            "Enchantress",
+            "Enigma",
+            "Keeper of the Light",
+            "Magnus",
+            "Mars",
+            "Phantom Assassin",
+            "Phoenix",
+            "Queen of Pain",
+            "Storm Spirit",
+            "Techies",
+            "Timbersaw",
+            "Vengeful Spirit",
+            "Venomancer",
+            "Viper",
+            "Windranger"
+        ],
+        "bad_against": [
+            "Alchemist",
+            "Drow Ranger",
+            "Faceless Void",
+            "Omniknight",
+            "Meepo",
+            "Nature's Prophet",
+            "Pudge",
+            "Shadow Fiend",
+            "Spectre",
+            "Silencer",
+            "Underlord",
+            "Skywrath Mage",
+            "Witch Doctor"
+        ]
+    },
+    "Morphling": {
+        "good_against": [
+            "Ancient Apparition",
+            "Anti-Mage",
+            "Arc Warden",
+            "Chaos Knight",
+            "Earth Spirit",
+            "Elder Titan",
+            "Lion",
+            "Meepo",
+            "Mirana",
+            "Outworld Destroyer",
+            "Phantom Lancer",
+            "Rubick",
+            "Skywrath Mage"
+        ],
+        "bad_against": [
+            "Lifestealer",
+            "Bloodseeker",
+            "Clockwerk",
+            "Drow Ranger",
+            "Lone Druid",
+            "Phantom Assassin",
+            "Razor",
+            "Sniper"
+        ]
+    },
+    "Naga_Siren": {
+        "good_against": [
+            "Axe",
+            "Batrider",
+            "Earthshaker",
+            "Lion",
+            "Outworld Destroyer",
+            "Timbersaw",
+            "Zeus",
+            "Gyrocopter",
+            "Snapfire",
+            "Leshrac"
+        ],
+        "bad_against": [
+            "Abaddon",
+            "Omniknight",
+            "Nature's Prophet",
+            "Legion Commander",
+            "Templar Assassin",
+            "Crystal Maiden",
+            "Chen",
+            "Bounty Hunter",
+            "Viper",
+            "Night Stalker",
+            "Arc Warden",
+            "Sniper",
+            "Rubick",
+            "Lone Druid"
+        ]
+    },
+    "Nature%27s_Prophet": {
+        "good_against": [
+            "Batrider",
+            "Broodmother",
+            "Clockwerk",
+            "Death Prophet",
+            "Doom",
+            "Earthshaker",
+            "Elder Titan",
+            "Ember Spirit",
+            "Jakiro",
+            "Lina",
+            "Luna",
+            "Meepo",
+            "Naga Siren",
+            "Sand King",
+            "Shadow Shaman",
+            "Spectre",
+            "Spirit Breaker",
+            "Storm Spirit",
+            "Timbersaw",
+            "Tinker",
+            "Underlord",
+            "Visage"
+        ],
+        "bad_against": [
+            "Lich",
+            "Monkey King",
+            "Techies",
+            "Treant Protector",
+            "Venomancer",
+            "Weaver"
+        ]
+    },
+    "Necrophos": {
+        "good_against": [
+            "Ancient Apparition",
+            "Pugna",
+            "Silencer",
+            "Nyx Assassin",
+            "Dazzle",
+            "Lina",
+            "Lion",
+            "Meepo",
+            "Oracle",
+            "Phantom Lancer",
+            "Rubick",
+            "Shadow Demon",
+            "Wraith King"
+        ],
+        "bad_against": [
+            "Axe",
+            "Bristleback",
+            "Huskar",
+            "Phoenix",
+            "Pudge",
+            "Sven",
+            "Tidehunter"
+        ]
+    },
+    "Night_Stalker": {
+        "good_against": [
+            "Chaos Knight",
+            "Lycan",
+            "Naga Siren",
+            "Phantom Lancer",
+            "Sven",
+            "Troll Warlord"
+        ],
+        "bad_against": [
+            "Storm Spirit",
+            "Puck",
+            "Clinkz",
+            "Earthshaker",
+            "Keeper of the Light",
+            "Tinker",
+            "Riki",
+            "Slark"
+        ]
+    },
+    "Nyx_Assassin": {
+        "good_against": [
+            "Bounty Hunter",
+            "Bloodseeker",
+            "Brewmaster",
+            "Doom",
+            "Juggernaut",
+            "Visage",
+            "Lifestealer",
+            "Lycan",
+            "Slardar"
+        ],
+        "bad_against": [
+            "Crystal Maiden",
+            "Enchantress",
+            "Enigma",
+            "Ember Spirit",
+            "Medusa",
+            "Outworld Destroyer",
+            "Phoenix",
+            "Puck",
+            "Pugna",
+            "Sniper",
+            "Storm Spirit",
+            "Tinker"
+        ]
+    },
+    "Ogre_Magi": {
+        "good_against": [
+            "Chaos Knight",
+            "Doom",
+            "Lifestealer",
+            "Meepo",
+            "Phantom Lancer",
+            "Omniknight",
+            "Oracle",
+            "Slark",
+            "Viper"
+        ],
+        "bad_against": [
+            "Earthshaker",
+            "Io",
+            "Nature's Prophet",
+            "Templar Assassin",
+            "Weaver",
+            "Sven"
+        ]
+    },
+    "Omniknight": {
+        "good_against": [
+            "Brewmaster",
+            "Doom",
+            "Invoker",
+            "Luna",
+            "Naga Siren",
+            "Oracle",
+            "Outworld Destroyer",
+            "Rubick",
+            "Silencer",
+            "Sven"
+        ],
+        "bad_against": [
+            "Axe",
+            "Chaos Knight",
+            "Death Prophet",
+            "Faceless Void",
+            "Juggernaut",
+            "Legion Commander",
+            "Winter Wyvern"
+        ]
+    },
+    "Oracle": {
+        "good_against": [
+            "Anti-Mage",
+            "Axe",
+            "Bristleback",
+            "Faceless Void",
+            "Shadow Demon",
+            "Spectre"
+        ],
+        "bad_against": [
+            "Ember Spirit",
+            "Legion Commander",
+            "Dark Willow",
+            "Omniknight",
+            "Rubick",
+            "Ancient Apparition",
+            "Silencer",
+            "Phoenix",
+            "Necrophos",
+            "Dark Seer",
+            "Techies",
+            "Skywrath Mage"
+        ]
+    },
+    "Outworld_Destroyer": {
+        "good_against": [
+            "Nyx Assassin",
+            "Rubick",
+            "Silencer",
+            "Sniper",
+            "Templar Assassin"
+        ],
+        "bad_against": [
+            "Anti-Mage",
+            "Axe",
+            "Huskar",
+            "Legion Commander",
+            "Winter Wyvern",
+            "Morphling",
+            "Slark",
+            "Timbersaw",
+            "Wraith King"
+        ]
+    },
+    "Pangolier": {
+        "good_against": [
+            "Bloodseeker",
+            "Centaur Warrunner",
+            "Faceless Void",
+            "Grimstroke",
+            "Medusa",
+            "Outworld Destroyer",
+            "Puck",
+            "Slark",
+            "Spirit Breaker",
+            "Tusk"
+        ],
+        "bad_against": [
+            "Arc Warden",
+            "Broodmother",
+            "Meepo",
+            "Phantom Lancer",
+            "Templar Assassin",
+            "Visage",
+            "Marci"
+        ]
+    },
+    "Phantom_Assassin": {
+        "good_against": [
+            "Axe",
+            "Bane",
+            "Broodmother",
+            "Centaur Warrunner",
+            "Dragon Knight",
+            "Lina",
+            "Lion",
+            "Morphling",
+            "Omniknight",
+            "Phoenix",
+            "Puck",
+            "Razor",
+            "Skywrath Mage",
+            "Spectre",
+            "Timbersaw",
+            "Tinker",
+            "Troll Warlord",
+            "Viper",
+            "Underlord",
+            "Hoodwink"
+        ],
+        "bad_against": [
+            "Anti-Mage",
+            "Crystal Maiden",
+            "Dazzle",
+            "Nature's Prophet",
+            "Riki",
+            "Sniper"
+        ]
+    },
+    "Phantom_Lancer": {
+        "good_against": [
+            "Axe",
+            "Batrider",
+            "Bristleback",
+            "Centaur Warrunner",
+            "Dragon Knight",
+            "Earthshaker",
+            "Ember Spirit",
+            "Grimstroke",
+            "Gyrocopter",
+            "Hoodwink",
+            "Jakiro",
+            "Kunkka",
+            "Legion Commander",
+            "Leshrac",
+            "Meepo",
+            "Magnus",
+            "Pangolier",
+            "Phoenix",
+            "Phantom Assassin",
+            "Puck",
+            "Razor",
+            "Sand King",
+            "Storm Spirit",
+            "Sven",
+            "Tidehunter",
+            "Timbersaw",
+            "Void Spirit",
+            "Witch Doctor"
+        ],
+        "bad_against": [
+            "Arc Warden",
+            "Bounty Hunter",
+            "Chaos Knight",
+            "Clockwerk",
+            "Disruptor",
+            "Lifestealer",
+            "Lone Druid",
+            "Pugna",
+            "Shadow Demon",
+            "Slark",
+            "Templar Assassin",
+            "Undying",
+            "Viper",
+            "Visage",
+            "Wraith King"
+        ]
+    },
+    "Phoenix": {
+        "good_against": [
+            "Night Stalker",
+            "Arc Warden",
+            "Huskar",
+            "Ursa",
+            "Silencer",
+            "Meepo",
+            "Bloodseeker",
+            "Viper",
+            "Necrophos",
+            "Snapfire"
+        ],
+        "bad_against": [
+            "Templar Assassin",
+            "Phantom Assassin",
+            "Legion Commander",
+            "Monkey King",
+            "Chen",
+            "Earthshaker",
+            "Ancient Apparition",
+            "Shadow Demon"
+        ]
+    },
+    "Primal_Beast": {
+        "good_against": [
+            "Bloodseeker",
+            "Death Prophet",
+            "Earth Spirit",
+            "Lifestealer",
+            "Troll Warlord",
+            "Weaver",
+            "Zeus"
+        ],
+        "bad_against": []
+    },
+    "Puck": {
+        "good_against": [
+            "Arc Warden",
+            "Faceless Void",
+            "Jakiro",
+            "Lycan",
+            "Night Stalker",
+            "Nyx Assassin",
+            "Silencer",
+            "Templar Assassin",
+            "Venomancer",
+            "Wraith King"
+        ],
+        "bad_against": [
+            "Void Spirit",
+            "Pangolier",
+            "Crystal Maiden",
+            "Mirana",
+            "Phoenix",
+            "Sniper",
+            "Terrorblade"
+        ]
+    },
+    "Pudge": {
+        "good_against": [
+            "Abaddon",
+            "Anti-Mage",
+            "Bristleback",
+            "Bounty Hunter",
+            "Dazzle",
+            "Doom",
+            "Legion Commander",
+            "Lifestealer",
+            "Mirana",
+            "Monkey King",
+            "Necrophos",
+            "Night Stalker",
+            "Nyx Assassin",
+            "Outworld Destroyer",
+            "Slardar",
+            "Slark",
+            "Tidehunter",
+            "Timbersaw",
+            "Weaver"
+        ],
+        "bad_against": [
+            "Bloodseeker",
+            "Crystal Maiden",
+            "Drow Ranger",
+            "Luna",
+            "Sniper",
+            "Spectre",
+            "Techies",
+            "Tinker",
+            "Zeus"
+        ]
+    },
+    "Pugna": {
+        "good_against": [
+            "Anti-Mage",
+            "Clockwerk",
+            "Chaos Knight",
+            "Luna",
+            "Nyx Assassin",
+            "Oracle",
+            "Phantom Lancer",
+            "Sniper",
+            "Storm Spirit"
+        ],
+        "bad_against": [
+            "Enchantress",
+            "Juggernaut",
+            "Outworld Destroyer",
+            "Timbersaw",
+            "Leshrac",
+            "Legion Commander",
+            "Shadow Fiend",
+            "Faceless Void",
+            "Invoker",
+            "Skywrath Mage",
+            "Troll Warlord"
+        ]
+    },
+    "Queen_of_Pain": {
+        "good_against": [
+            "Anti-Mage",
+            "Arc Warden",
+            "Axe",
+            "Bloodseeker",
+            "Centaur Warrunner",
+            "Death Prophet",
+            "Disruptor",
+            "Faceless Void",
+            "Legion Commander",
+            "Luna",
+            "Meepo",
+            "Night Stalker",
+            "Nyx Assassin",
+            "Puck",
+            "Shadow Shaman",
+            "Skywrath Mage"
+        ],
+        "bad_against": [
+            "Drow Ranger",
+            "Enchantress",
+            "Huskar",
+            "Slark"
+        ]
+    },
+    "Razor": {
+        "good_against": [
+            "Anti-Mage",
+            "Chaos Knight",
+            "Centaur Warrunner",
+            "Earth Spirit",
+            "Huskar",
+            "Morphling",
+            "Necrophos",
+            "Outworld Destroyer",
+            "Queen of Pain",
+            "Slark",
+            "Sniper",
+            "Viper",
+            "Weaver"
+        ],
+        "bad_against": [
+            "Bristleback",
+            "Earthshaker",
+            "Lifestealer",
+            "Monkey King",
+            "Phantom Assassin",
+            "Phantom Lancer",
+            "Spirit Breaker",
+            "Troll Warlord",
+            "Ursa",
+            "Windranger"
+        ]
+    },
+    "Riki": {
+        "good_against": [
+            "Axe",
+            "Bounty Hunter",
+            "Bristleback",
+            "Legion Commander",
+            "Meepo",
+            "Omniknight",
+            "Razor",
+            "Slardar",
+            "Spectre",
+            "Underlord",
+            "Viper",
+            "Zeus"
+        ],
+        "bad_against": [
+            "Anti-Mage",
+            "Chen",
+            "Clinkz",
+            "Crystal Maiden",
+            "Drow Ranger",
+            "Lifestealer",
+            "Mars",
+            "Queen of Pain",
+            "Storm Spirit",
+            "Skywrath Mage",
+            "Sniper",
+            "Ursa",
+            "Weaver"
+        ]
+    },
+    "Rubick": {
+        "good_against": [
+            "Bristleback",
+            "Broodmother",
+            "Clinkz",
+            "Legion Commander",
+            "Phantom Lancer",
+            "Riki",
+            "Shadow Fiend",
+            "Silencer",
+            "Slark",
+            "Wraith King"
+        ],
+        "bad_against": [
+            "Crystal Maiden",
+            "Earthshaker",
+            "Enigma",
+            "Invoker",
+            "Kunkka",
+            "Lich",
+            "Lina",
+            "Lion",
+            "Luna",
+            "Magnus",
+            "Medusa",
+            "Morphling",
+            "Omniknight",
+            "Winter Wyvern",
+            "Witch Doctor"
+        ]
+    },
+    "Sand_King": {
+        "good_against": [
+            "Earth Spirit",
+            "Phoenix",
+            "Rubick",
+            "Silencer",
+            "Tidehunter",
+            "Zeus"
+        ],
+        "bad_against": [
+            "Broodmother",
+            "Meepo",
+            "Nature's Prophet",
+            "Phantom Assassin",
+            "Slark",
+            "Templar Assassin"
+        ]
+    },
+    "Shadow_Demon": {
+        "good_against": [
+            "Ember Spirit",
+            "Leshrac",
+            "Lina",
+            "Lion",
+            "Puck",
+            "Pugna",
+            "Queen of Pain",
+            "Storm Spirit",
+            "Witch Doctor",
+            "Wraith King"
+        ],
+        "bad_against": [
+            "Alchemist",
+            "Venomancer",
+            "Anti-Mage",
+            "Dark Seer",
+            "Legion Commander",
+            "Omniknight",
+            "Spectre",
+            "Juggernaut",
+            "Luna",
+            "Techies",
+            "Windranger"
+        ]
+    },
+    "Shadow_Fiend": {
+        "good_against": [
+            "Axe",
+            "Razor",
+            "Bane",
+            "Bounty Hunter",
+            "Disruptor",
+            "Doom",
+            "Dragon Knight",
+            "Luna",
+            "Night Stalker",
+            "Pugna",
+            "Sniper",
+            "Spirit Breaker",
+            "Tinker",
+            "Ursa",
+            "Tidehunter",
+            "Viper",
+            "Zeus"
+        ],
+        "bad_against": [
+            "Clockwerk",
+            "Meepo",
+            "Nature's Prophet",
+            "Silencer",
+            "Slark"
+        ]
+    },
+    "Shadow_Shaman": {
+        "good_against": [
+            "Dragon Knight",
+            "Mirana",
+            "Morphling",
+            "Meepo",
+            "Riki",
+            "Wraith King",
+            "Visage"
+        ],
+        "bad_against": [
+            "Huskar",
+            "Nature's Prophet",
+            "Spirit Breaker",
+            "Templar Assassin",
+            "Terrorblade",
+            "Weaver"
+        ]
+    },
+    "Silencer": {
+        "good_against": [
+            "Broodmother",
+            "Dragon Knight",
+            "Lycan",
+            "Nyx Assassin",
+            "Phantom Assassin",
+            "Phantom Lancer",
+            "Slark",
+            "Sniper",
+            "Ursa"
+        ],
+        "bad_against": [
+            "Bristleback",
+            "Crystal Maiden",
+            "Enigma",
+            "Medusa",
+            "Oracle",
+            "Outworld Destroyer",
+            "Pugna",
+            "Shadow Demon",
+            "Timbersaw",
+            "Tinker",
+            "Windranger",
+            "Zeus"
+        ]
+    },
+    "Skywrath_Mage": {
+        "good_against": [
+            "Anti-Mage",
+            "Huskar",
+            "Abaddon",
+            "Pugna",
+            "Nyx Assassin",
+            "Wraith King"
+        ],
+        "bad_against": [
+            "Timbersaw",
+            "Storm Spirit",
+            "Enchantress",
+            "Alchemist",
+            "Vengeful Spirit",
+            "Winter Wyvern"
+        ]
+    },
+    "Slardar": {
+        "good_against": [
+            "Abaddon",
+            "Meepo",
+            "Oracle",
+            "Phantom Lancer",
+            "Phoenix"
+        ],
+        "bad_against": [
+            "Anti-Mage",
+            "Bounty Hunter",
+            "Clinkz",
+            "Legion Commander",
+            "Ursa",
+            "Pudge",
+            "Riki",
+            "Shadow Fiend",
+            "Weaver"
+        ]
+    },
+    "Slark": {
+        "good_against": [
+            "Ancient Apparition",
+            "Axe",
+            "Bloodseeker",
+            "Chaos Knight",
+            "Disruptor",
+            "Earthshaker",
+            "Meepo",
+            "Omniknight",
+            "Outworld Destroyer",
+            "Phantom Lancer",
+            "Puck",
+            "Pugna",
+            "Tiny"
+        ],
+        "bad_against": [
+            "Arc Warden",
+            "Batrider",
+            "Drow Ranger",
+            "Luna",
+            "Medusa",
+            "Phantom Assassin",
+            "Sniper",
+            "Spectre",
+            "Storm Spirit",
+            "Templar Assassin",
+            "Warlock"
+        ]
+    },
+    "Snapfire": {
+        "good_against": [
+            "Anti-Mage",
+            "Silencer",
+            "Nyx Assassin",
+            "Ancient Apparition",
+            "Juggernaut",
+            "Abaddon",
+            "Pudge"
+        ],
+        "bad_against": [
+            "Chen",
+            "Clockwerk",
+            "Phantom Lancer",
+            "Phoenix",
+            "Omniknight",
+            "Faceless Void"
+        ]
+    },
+    "Sniper": {
+        "good_against": [
+            "Anti-Mage",
+            "Axe",
+            "Bloodseeker",
+            "Bounty Hunter",
+            "Centaur Warrunner",
+            "Clockwerk",
+            "Ember Spirit",
+            "Invoker",
+            "Lifestealer",
+            "Omniknight",
+            "Phantom Assassin",
+            "Phantom Lancer",
+            "Pudge",
+            "Slardar",
+            "Slark",
+            "Spectre",
+            "Spirit Breaker",
+            "Storm Spirit",
+            "Tusk",
+            "Viper",
+            "Weaver"
+        ],
+        "bad_against": [
+            "Drow Ranger",
+            "Earthshaker",
+            "Enigma",
+            "Medusa",
+            "Silencer",
+            "Shadow Fiend",
+            "Shadow Shaman",
+            "Venomancer",
+            "Undying"
+        ]
+    },
+    "Spectre": {
+        "good_against": [
+            "Anti-Mage",
+            "Doom",
+            "Juggernaut",
+            "Lion",
+            "Lycan",
+            "Meepo",
+            "Necrophos",
+            "Omniknight",
+            "Phantom Lancer",
+            "Pugna",
+            "Riki",
+            "Shadow Shaman",
+            "Storm Spirit",
+            "Terrorblade",
+            "Troll Warlord",
+            "Undying",
+            "Venomancer",
+            "Viper",
+            "Winter Wyvern"
+        ],
+        "bad_against": [
+            "Ancient Apparition",
+            "Clinkz",
+            "Crystal Maiden",
+            "Drow Ranger",
+            "Earthshaker",
+            "Lina",
+            "Magnus",
+            "Nature's Prophet",
+            "Oracle",
+            "Phantom Assassin",
+            "Rubick",
+            "Sniper",
+            "Tinker",
+            "Windranger",
+            "Zeus"
+        ]
+    },
+    "Spirit_Breaker": {
+        "good_against": [
+            "Disruptor",
+            "Omniknight",
+            "Clockwerk",
+            "Ember Spirit",
+            "Outworld Destroyer",
+            "Enigma",
+            "Invoker",
+            "Medusa",
+            "Phoenix",
+            "Meepo",
+            "Razor",
+            "Treant Protector",
+            "Underlord",
+            "Undying"
+        ],
+        "bad_against": [
+            "Anti-Mage",
+            "Clinkz",
+            "Nature's Prophet",
+            "Tinker"
+        ]
+    },
+    "Storm_Spirit": {
+        "good_against": [
+            "Anti-Mage",
+            "Doom",
+            "Ember Spirit",
+            "Night Stalker",
+            "Nyx Assassin",
+            "Riki",
+            "Silencer",
+            "Techies"
+        ],
+        "bad_against": [
+            "Ancient Apparition",
+            "Arc Warden",
+            "Bloodseeker",
+            "Mars",
+            "Monkey King",
+            "Phantom Lancer",
+            "Razor",
+            "Sniper",
+            "Spectre",
+            "Terrorblade",
+            "Tinker",
+            "Vengeful Spirit",
+            "Viper",
+            "Weaver"
+        ]
+    },
+    "Sven": {
+        "good_against": [
+            "Clockwerk",
+            "Lifestealer",
+            "Pugna",
+            "Razor",
+            "Omniknight",
+            "Spectre",
+            "Troll Warlord",
+            "Terrorblade",
+            "Templar Assassin",
+            "Venomancer",
+            "Winter Wyvern",
+            "Wraith King"
+        ],
+        "bad_against": [
+            "Anti-Mage",
+            "Broodmother",
+            "Juggernaut",
+            "Chaos Knight",
+            "Chen",
+            "Death Prophet",
+            "Doom",
+            "Meepo",
+            "Sniper",
+            "Pangolier",
+            "Phantom Lancer",
+            "Warlock"
+        ]
+    },
+    "Techies": {
+        "good_against": [
+            "Abaddon",
+            "Anti-Mage",
+            "Beastmaster",
+            "Chen",
+            "Death Prophet",
+            "Juggernaut",
+            "Lifestealer",
+            "Night Stalker",
+            "Oracle",
+            "Templar Assassin",
+            "Visage",
+            "Wraith King",
+            "Zeus"
+        ],
+        "bad_against": [
+            "Ember Spirit",
+            "Meepo",
+            "Monkey King",
+            "Morphling",
+            "Tinker"
+        ]
+    },
+    "Templar_Assassin": {
+        "good_against": [
+            "Venomancer",
+            "Windranger",
+            "Leshrac",
+            "Viper",
+            "Dragon Knight",
+            "Pudge",
+            "Huskar",
+            "Razor",
+            "Pugna"
+        ],
+        "bad_against": [
+            "Shadow Fiend",
+            "Zeus",
+            "Puck"
+        ]
+    },
+    "Terrorblade": {
+        "good_against": [
+            "Drow Ranger",
+            "Earth Spirit",
+            "Axe",
+            "Elder Titan",
+            "Ursa",
+            "Lina",
+            "Dark Seer",
+            "Shadow Shaman",
+            "Ember Spirit",
+            "Dazzle",
+            "Necrophos",
+            "Outworld Destroyer",
+            "Phantom Lancer",
+            "Tinker",
+            "Underlord",
+            "Zeus",
+            "Timbersaw",
+            "Morphling",
+            "Storm Spirit",
+            "Sven",
+            "Skywrath Mage"
+        ],
+        "bad_against": [
+            "Ancient Apparition",
+            "Bane",
+            "Viper",
+            "Techies",
+            "Shadow Fiend",
+            "Pudge",
+            "Anti-Mage",
+            "Sniper",
+            "Spectre",
+            "Lifestealer",
+            "Witch Doctor",
+            "Wraith King"
+        ]
+    },
+    "Tidehunter": {
+        "good_against": [
+            "Anti-Mage",
+            "Nyx Assassin",
+            "Death Prophet",
+            "Razor",
+            "Juggernaut",
+            "Rubick",
+            "Slark",
+            "Ursa"
+        ],
+        "bad_against": [
+            "Bane",
+            "Batrider",
+            "Shadow Fiend",
+            "Phantom Lancer",
+            "Windranger"
+        ]
+    },
+    "Timbersaw": {
+        "good_against": [
+            "Bane",
+            "Doom",
+            "Ember Spirit",
+            "Faceless Void",
+            "Invoker",
+            "Lion",
+            "Necrophos",
+            "Outworld Destroyer",
+            "Pangolier",
+            "Pugna",
+            "Shadow Shaman",
+            "Skywrath Mage",
+            "Silencer",
+            "Storm Spirit",
+            "Viper",
+            "Zeus"
+        ],
+        "bad_against": [
+            "Broodmother",
+            "Axe",
+            "Chaos Knight",
+            "Meepo",
+            "Monkey King",
+            "Nature's Prophet",
+            "Phantom Assassin",
+            "Phantom Lancer",
+            "Razor",
+            "Slark",
+            "Terrorblade",
+            "Treant Protector"
+        ]
+    },
+    "Tinker": {
+        "good_against": [
+            "Anti-Mage",
+            "Clockwerk",
+            "Dazzle",
+            "Doom",
+            "Legion Commander",
+            "Lifestealer",
+            "Luna",
+            "Night Stalker",
+            "Nyx Assassin",
+            "Pudge",
+            "Silencer",
+            "Slark",
+            "Storm Spirit",
+            "Vengeful Spirit",
+            "Zeus",
+            "Pugna",
+            "Kunkka"
+        ],
+        "bad_against": [
+            "Bloodseeker",
+            "Chaos Knight",
+            "Faceless Void",
+            "Shadow Fiend",
+            "Terrorblade",
+            "Timbersaw"
+        ]
+    },
+    "Tiny": {
+        "good_against": [
+            "Bristleback",
+            "Juggernaut",
+            "Lifestealer",
+            "Lion",
+            "Necrophos",
+            "Slardar",
+            "Viper"
+        ],
+        "bad_against": [
+            "Broodmother",
+            "Meepo",
+            "Naga Siren"
+        ]
+    },
+    "Treant_Protector": {
+        "good_against": [
+            "Monkey King",
+            "Phantom Lancer",
+            "Rubick",
+            "Slardar",
+            "Timbersaw"
+        ],
+        "bad_against": [
+            "Spirit Breaker",
+            "Anti-Mage",
+            "Lycan",
+            "Storm Spirit",
+            "Drow Ranger",
+            "Phantom Assassin"
+        ]
+    },
+    "Troll_Warlord": {
+        "good_against": [
+            "Axe",
+            "Bane",
+            "Shadow Shaman",
+            "Chaos Knight",
+            "Crystal Maiden",
+            "Lich",
+            "Oracle",
+            "Outworld Destroyer",
+            "Razor",
+            "Sniper",
+            "Timbersaw",
+            "Underlord",
+            "Winter Wyvern"
+        ],
+        "bad_against": [
+            "Anti-Mage",
+            "Enchantress",
+            "Huskar",
+            "Juggernaut",
+            "Lifestealer",
+            "Phantom Assassin",
+            "Phoenix",
+            "Sven",
+            "Undying"
+        ]
+    },
+    "Tusk": {
+        "good_against": [
+            "Anti-Mage",
+            "Disruptor",
+            "Earth Spirit",
+            "Earthshaker",
+            "Phantom Lancer",
+            "Razor",
+            "Techies"
+        ],
+        "bad_against": [
+            "Bane",
+            "Bloodseeker",
+            "Crystal Maiden",
+            "Legion Commander",
+            "Pugna",
+            "Shadow Fiend",
+            "Sniper",
+            "Venomancer",
+            "Viper",
+            "Monkey King"
+        ]
+    },
+    "Underlord": {
+        "good_against": [
+            "Necrophos",
+            "Razor",
+            "Luna",
+            "Disruptor",
+            "Kunkka",
+            "Doom",
+            "Sniper",
+            "Outworld Destroyer",
+            "Winter Wyvern",
+            "Rubick",
+            "Shadow Fiend",
+            "Ursa"
+        ],
+        "bad_against": [
+            "Drow Ranger",
+            "Legion Commander",
+            "Phantom Lancer",
+            "Phantom Assassin",
+            "Templar Assassin"
+        ]
+    },
+    "Undying": {
+        "good_against": [
+            "Alchemist",
+            "Earthshaker",
+            "Gyrocopter",
+            "Luna",
+            "Necrophos",
+            "Silencer"
+        ],
+        "bad_against": [
+            "Nature's Prophet",
+            "Spectre",
+            "Ogre Magi",
+            "Centaur Warrunner",
+            "Winter Wyvern",
+            "Sven",
+            "Bristleback"
+        ]
+    },
+    "Ursa": {
+        "good_against": [
+            "Anti-Mage",
+            "Bane",
+            "Chaos Knight",
+            "Doom",
+            "Lion",
+            "Phantom Lancer",
+            "Riki",
+            "Shadow Demon",
+            "Slark",
+            "Storm Spirit",
+            "Templar Assassin",
+            "Viper",
+            "Weaver",
+            "Windranger"
+        ],
+        "bad_against": [
+            "Lifestealer",
+            "Lina",
+            "Timbersaw",
+            "Huskar",
+            "Medusa",
+            "Bristleback",
+            "Underlord",
+            "Pudge"
+        ]
+    },
+    "Vengeful_Spirit": {
+        "good_against": [
+            "Anti-Mage",
+            "Lina",
+            "Nyx Assassin",
+            "Phantom Lancer",
+            "Rubick",
+            "Spirit Breaker",
+            "Tidehunter",
+            "Viper"
+        ],
+        "bad_against": [
+            "Batrider",
+            "Clockwerk",
+            "Faceless Void",
+            "Huskar",
+            "Meepo",
+            "Monkey King"
+        ]
+    },
+    "Venomancer": {
+        "good_against": [
+            "Abaddon",
+            "Anti-Mage",
+            "Huskar",
+            "Legion Commander",
+            "Oracle",
+            "Rubick",
+            "Slark",
+            "Terrorblade",
+            "Underlord",
+            "Wraith King"
+        ],
+        "bad_against": [
+            "Axe",
+            "Earthshaker",
+            "Magnus",
+            "Mars",
+            "Monkey King",
+            "Spectre",
+            "Templar Assassin",
+            "Techies",
+            "Windranger"
+        ]
+    },
+    "Viper": {
+        "good_against": [
+            "Broodmother",
+            "Chaos Knight",
+            "Invoker",
+            "Morphling",
+            "Lifestealer",
+            "Phantom Lancer",
+            "Pugna",
+            "Rubick",
+            "Terrorblade",
+            "Weaver",
+            "Windranger",
+            "Wraith King"
+        ],
+        "bad_against": [
+            "Abaddon",
+            "Axe",
+            "Bristleback",
+            "Dragon Knight",
+            "Earthshaker",
+            "Huskar",
+            "Magnus",
+            "Mars",
+            "Monkey King",
+            "Necrophos",
+            "Nyx Assassin",
+            "Razor",
+            "Slark",
+            "Spectre",
+            "Templar Assassin",
+            "Tidehunter",
+            "Vengeful Spirit",
+            "Venomancer",
+            "Visage",
+            "Zeus"
+        ]
+    },
+    "Visage": {
+        "good_against": [
+            "Axe",
+            "Doom",
+            "Luna",
+            "Phoenix",
+            "Tidehunter",
+            "Timbersaw",
+            "Tiny",
+            "Venomancer",
+            "Viper"
+        ],
+        "bad_against": [
+            "Clockwerk",
+            "Nature's Prophet",
+            "Puck",
+            "Pudge",
+            "Shadow Shaman",
+            "Spectre",
+            "Techies"
+        ]
+    },
+    "Void_Spirit": {
+        "good_against": [
+            "Bane",
+            "Bloodseeker",
+            "Death Prophet",
+            "Bounty Hunter",
+            "Doom",
+            "Ember Spirit",
+            "Meepo",
+            "Puck",
+            "Queen of Pain",
+            "Slardar",
+            "Templar Assassin",
+            "Viper"
+        ],
+        "bad_against": [
+            "Broodmother",
+            "Terrorblade",
+            "Gyrocopter",
+            "Morphling",
+            "Monkey King",
+            "Windranger"
+        ]
+    },
+    "Warlock": {
+        "good_against": [
+            "Weaver",
+            "Anti-Mage",
+            "Bloodseeker",
+            "Silencer",
+            "Dark Seer",
+            "Ember Spirit",
+            "Lycan",
+            "Ancient Apparition",
+            "Nyx Assassin",
+            "Sven"
+        ],
+        "bad_against": [
+            "Huskar",
+            "Meepo",
+            "Templar Assassin",
+            "Shadow Fiend",
+            "Enigma"
+        ]
+    },
+    "Weaver": {
+        "good_against": [
+            "Axe",
+            "Bloodseeker",
+            "Drow Ranger",
+            "Faceless Void",
+            "Night Stalker",
+            "Nyx Assassin",
+            "Skywrath Mage",
+            "Slardar",
+            "Zeus"
+        ],
+        "bad_against": [
+            "Ancient Apparition",
+            "Brewmaster",
+            "Lifestealer",
+            "Undying",
+            "Pudge",
+            "Sven",
+            "Ursa",
+            "Wraith King"
+        ]
+    },
+    "Windranger": {
+        "good_against": [
+            "Axe",
+            "Bloodseeker",
+            "Centaur Warrunner",
+            "Nyx Assassin",
+            "Ember Spirit",
+            "Razor",
+            "Spectre",
+            "Sven",
+            "Shadow Demon",
+            "Venomancer"
+        ],
+        "bad_against": [
+            "Earthshaker",
+            "Huskar",
+            "Hoodwink",
+            "Phantom Assassin",
+            "Pudge",
+            "Ursa"
+        ]
+    },
+    "Winter_Wyvern": {
+        "good_against": [
+            "Ancient Apparition",
+            "Invoker",
+            "Luna",
+            "Naga Siren",
+            "Omniknight",
+            "Outworld Destroyer",
+            "Pugna",
+            "Skywrath Mage",
+            "Slark",
+            "Timbersaw",
+            "Tinker",
+            "Undying"
+        ],
+        "bad_against": [
+            "Beastmaster",
+            "Chaos Knight",
+            "Lycan",
+            "Legion Commander",
+            "Meepo",
+            "Troll Warlord",
+            "Ursa"
+        ]
+    },
+    "Witch_Doctor": {
+        "good_against": [
+            "Faceless Void",
+            "Kunkka",
+            "Lina",
+            "Luna",
+            "Morphling",
+            "Omniknight",
+            "Oracle",
+            "Pudge",
+            "Riki",
+            "Rubick",
+            "Silencer",
+            "Tidehunter",
+            "Vengeful Spirit"
+        ],
+        "bad_against": [
+            "Bloodseeker",
+            "Lone Druid",
+            "Lycan",
+            "Monkey King",
+            "Venomancer",
+            "Viper"
+        ]
+    },
+    "Wraith_King": {
+        "good_against": [
+            "Anti-Mage",
+            "Broodmother",
+            "Chaos Knight",
+            "Juggernaut",
+            "Invoker",
+            "Lion",
+            "Monkey King",
+            "Phantom Lancer",
+            "Riki",
+            "Slark",
+            "Terrorblade",
+            "Weaver"
+        ],
+        "bad_against": [
+            "Bloodseeker",
+            "Doom",
+            "Legion Commander",
+            "Necrophos",
+            "Rubick",
+            "Techies",
+            "Witch Doctor"
+        ]
+    },
+    "Zeus": {
+        "good_against": [
+            "Anti-Mage",
+            "Faceless Void",
+            "Chaos Knight",
+            "Juggernaut",
+            "Lifestealer",
+            "Meepo",
+            "Pudge",
+            "Pugna",
+            "Silencer",
+            "Templar Assassin",
+            "Ursa",
+            "Viper"
+        ],
+        "bad_against": [
+            "Slardar",
+            "Enchantress",
+            "Timbersaw",
+            "Bounty Hunter",
+            "Winter Wyvern",
+            "Lich",
+            "Necrophos",
+            "Tinker"
+        ]
+    }
+}
